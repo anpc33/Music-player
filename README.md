@@ -26,3 +26,6 @@
    ```bash
    git clone https://github.com/anpc33/Music-player.git
    cd Music-player
+##  Chạy 
+```
+yarn dev
